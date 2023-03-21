@@ -1,0 +1,5 @@
+DB_HOST= "localhost"
+DB_PORT = "27017"
+EXPRESS_PORT = "5000"
+EXPRESS_HOST= "localhost"
+JWT_SECRET = "cafegent"
